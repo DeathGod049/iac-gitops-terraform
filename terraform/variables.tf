@@ -9,3 +9,5 @@ variable "clusterName" {
   type        = string
   default     = "gitops-eks"
 }
+
+## The variables below are for the VPC module. You can customize them as needed.
